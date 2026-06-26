@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gopalthota1729/Pekata_score_board/static/css/main.3bb8690c.css",
-    "main.js": "/gopalthota1729/Pekata_score_board/static/js/main.1774ca4e.js",
-    "static/js/453.e3816395.chunk.js": "/gopalthota1729/Pekata_score_board/static/js/453.e3816395.chunk.js",
-    "index.html": "/gopalthota1729/Pekata_score_board/index.html",
-    "main.3bb8690c.css.map": "/gopalthota1729/Pekata_score_board/static/css/main.3bb8690c.css.map",
-    "main.1774ca4e.js.map": "/gopalthota1729/Pekata_score_board/static/js/main.1774ca4e.js.map",
-    "453.e3816395.chunk.js.map": "/gopalthota1729/Pekata_score_board/static/js/453.e3816395.chunk.js.map"
+    "main.css": "/Pekata_score_board/static/css/main.3bb8690c.css",
+    "main.js": "/Pekata_score_board/static/js/main.2de68c3c.js",
+    "static/js/453.e3816395.chunk.js": "/Pekata_score_board/static/js/453.e3816395.chunk.js",
+    "index.html": "/Pekata_score_board/index.html",
+    "main.3bb8690c.css.map": "/Pekata_score_board/static/css/main.3bb8690c.css.map",
+    "main.2de68c3c.js.map": "/Pekata_score_board/static/js/main.2de68c3c.js.map",
+    "453.e3816395.chunk.js.map": "/Pekata_score_board/static/js/453.e3816395.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bb8690c.css",
-    "static/js/main.1774ca4e.js"
+    "static/js/main.2de68c3c.js"
   ]
 }
